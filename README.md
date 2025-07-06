@@ -6,7 +6,7 @@
 ---
 
 ## 📂 **Dataset**
-- **Source:** [Upwork Job Postings Dataset 2024](https://www.kaggle.com) *(Link to dataset if public)*
+- **Source:** [Upwork Job Postings Dataset 2024](https://www.kaggle.com/datasets/hashiromer/upwork-jobs)
 - **Size:** 50,000+ job postings
 - **Columns:**  
   - Title  
