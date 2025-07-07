@@ -81,8 +81,8 @@
 ---
 
 ## 🤝 **Credits**
-**Built by:** [Your Name]  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/your-link/) | [Portfolio](https://your-portfolio-link.com)
+**Built by:** [Adrika Shukla]  
+**Connect:** [LinkedIn](www.linkedin.com/in/adrika-shukla) 
 
 ---
 
